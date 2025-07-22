@@ -1,0 +1,9 @@
+footer{
+    width: 1260px;
+    height: 42px;
+}
+.nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
